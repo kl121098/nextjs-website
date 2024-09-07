@@ -61,7 +61,7 @@ const Header = () => {
                       <li>
                         <Link href={"/projectlist"}>
                           <h2 className="text-md bg-transparent text-white">
-                            Projects
+                            Project
                           </h2>
                         </Link>
                       </li>
